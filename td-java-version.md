@@ -507,7 +507,7 @@
 ### Étapes détaillées Sécurité
 
 1. **Scan de vulnérabilités (Trivy ou Snyk)**  
-   - [Installer Trivy](https://aquasecurity.github.io/trivy/v0.43.1/installation/) ou [Snyk CLI](https://docs.snyk.io/snyk-cli/install-the-snyk-cli).  
+   - [Installer Trivy](https://trivy.dev/docs/latest/getting-started/installation/) ou [Snyk CLI](https://docs.snyk.io/snyk-cli/install-the-snyk-cli).  
    - Exemple Trivy :  
 
      ```bash
