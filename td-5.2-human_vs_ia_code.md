@@ -60,4 +60,4 @@ Complétez le tableau :
 ## 🏁 Conclusion TP
 
 A vous de me le dire ? 
- (Lien du drafio)[https://draft.io/mxtzupj9pab7shghj3xjtsrcj5vte782mgpfzuadbra3]
+ (Lien du draft.io)[https://draft.io/mxtzupj9pab7shghj3xjtsrcj5vte782mgpfzuadbra3]
